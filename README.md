@@ -7,7 +7,7 @@
 ## 📫 Connect with Me
 
 <a href="mailto:adrianjoser20@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Email"></a>
-<a href="https://www.linkedin.com/in/adriánjose" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/adriánjoser" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn"></a>
 <a href="https://x.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" alt="X (Twitter)"></a>
 
 </div>
