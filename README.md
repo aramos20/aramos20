@@ -6,9 +6,9 @@
 
 ## 📫 Connect with Me
 
-[![Email](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:adrianjoser20@gmail.com)
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/)
-[![X (Twitter)](https://go-skill-icons.vercel.app/api/icons?i=twitter)](https://x.com/)
+<a href="mailto:adrianjoser20@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Email"></a>
+<a href="https://www.linkedin.com/in/adriánramos" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn"></a>
+<a href="https://x.com/adrwwi" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" alt="X (Twitter)"></a>
 
 </div>
 
