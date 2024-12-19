@@ -1,10 +1,22 @@
-# Hi there, I'm aramos20 👋
+<div align="center">
+  
+# Hi there, I'm aramos20
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aramos20&color=blue)
 
 ## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriánramos) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adrianjoser20@gmail.com)
+</div>
+<p align="center">
+  <a href="adrianjoser20@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/adriánramos" target="_blank" rel="noopener noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/adrwwi" target="_blank" rel="noopener noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" alt="X (Twitter)" />
+  </a>
+</p>
 
 ## About Me
 
@@ -35,7 +47,7 @@ Here are some of the technologies and tools I work with:
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=circleci)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim)
 
-  ![Snyk](https://img.shields.io/badge/snyk-%23ffffff.svg?style=for-the-badge&logo=snyk&logoColor=4C4A73)
+  [//]: #![Snyk](https://img.shields.io/badge/snyk-%23ffffff.svg?style=for-the-badge&logo=snyk&logoColor=4C4A73)
 - ### Cloud Technologies:
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws)
   
