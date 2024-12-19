@@ -26,7 +26,9 @@ I'm an enthusiastic DevOps engineer with a passion for optimizing and automating
 Here are some of the technologies and tools I work with:
 
 - ### Languages:
-  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=yml)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=yml)
 - ### Frameworks:
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs)
 - ### Databases:
