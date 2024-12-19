@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a passionate developer with a keen interest in creating impactful software solutions. I enjoy working on both frontend and backend technologies and am always eager to learn and explore new tools and frameworks.
+I'm an enthusiastic DevOps engineer with a passion for optimizing and automating software delivery processes. I enjoy working with a wide range of tools and technologies to improve system reliability, scalability, and efficiency. Constantly eager to learn and explore new methodologies, I'm dedicated to continuous improvement and innovation in the DevOps field.
 
 - 🌱 I’m currently learning: IaC, container orchestration
 - 💬 Ask me about: DevOps!
@@ -19,37 +19,29 @@ I'm a passionate developer with a keen interest in creating impactful software s
 
 Here are some of the technologies and tools I work with:
 
-- Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-- Frameworks: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- Databases: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-- Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ### Languages:
+  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=yml)
+- ### Frameworks:
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs)
+- ### Databases:
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres)
+- ### Tools:
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=prometheus)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubactions)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sonarqube)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=circleci)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim)
+
+  ![Snyk](https://img.shields.io/badge/snyk-%23ffffff.svg?style=for-the-badge&logo=snyk&logoColor=4C4A73)
+- ### Cloud Technologies:
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws)
+  
 
 ## 📈 GitHub Stats
 
 ![aramos20's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aramos20&show_icons=true&theme=radical)
-
-## 📂 Top Repositories
-
-Here are a few repositories I've been working on:
-
-- [![Repo Name](https://img.shields.io/badge/-Repo_Name-000?style=flat&logo=github)](https://github.com/aramos20/repo_name)
-  - Description of the repository and the technologies used.
-
-- [![Repo Name](https://img.shields.io/badge/-Repo_Name-000?style=flat&logo=github)](https://github.com/aramos20/repo_name)
-  - Description of the repository and the technologies used.
-
-## 🏆 Achievements
-
-- [Your Achievements, Certifications, or Awards]
-
-## 📝 Blog Posts
-
-Check out my latest blog posts:
-
-- [Blog Post Title](https://yourblog.com/blog-post-title)
-  - Brief description of the blog post.
-
-- [Blog Post Title](https://yourblog.com/blog-post-title)
-  - Brief description of the blog post.'
 
 Thanks for visiting my profile!
