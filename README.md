@@ -7,7 +7,7 @@
 ## 📫 Connect with Me
 
 <a href="mailto:adrianjoser20@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Email"></a>
-<a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/adriánjose" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn"></a>
 <a href="https://x.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" alt="X (Twitter)"></a>
 
 </div>
@@ -40,13 +40,11 @@ Here are some of the technologies and tools I work with:
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=grafana)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubactions)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sonarqube)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=snyk)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=circleci)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim)
-
-  [//]: #![Snyk](https://img.shields.io/badge/snyk-%23ffffff.svg?style=for-the-badge&logo=snyk&logoColor=4C4A73)
 - ### Cloud Technologies:
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws)
-  
 
 ## 📈 GitHub Stats
 
