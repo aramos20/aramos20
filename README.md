@@ -35,6 +35,7 @@ Here are some of the technologies and tools I work with:
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nginx)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=prometheus)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=grafana)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubactions)
