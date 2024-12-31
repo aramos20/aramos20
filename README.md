@@ -37,14 +37,14 @@ Here are some of the technologies and tools I work with:
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubactions)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nginx)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=prometheus)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=grafana)
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubactions)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sonarqube)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=snyk)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=circleci)
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim)
 - ### Cloud Technologies:
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws)
 
